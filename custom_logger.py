@@ -4,7 +4,7 @@ import requests
 from colorlog import ColoredFormatter
 
 class CustomLogger:
-    def __init__(self, discord_webhook_url="https://discord.com/api/webhooks/1172792490131202048/eg7QsvbdM94xDlDALtfC8ENpO-kqPAAKxNgJy2vSc8jqYDDUAlSp91TLdCcmHOHOD6Va",usb = False):
+    def __init__(self, discord_webhook_url="cant share",usb = False):
         self.usb = usb
         self.log_file_path = os.path.join(os.path.expanduser("~/Desktop"), "WIN config.log")
         self.discord_webhook_url = discord_webhook_url
