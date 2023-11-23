@@ -487,8 +487,8 @@ class DiscordBotModule:
         
 # Example usage:
 if __name__ == '__main__':
-    bot_token = "MTE3MTY1NjY0NDkxNzIxOTMzOQ.GXrRle.riejiiw1ovEBPj8KR612f6_BsqgttI-XuL83WU"
-    DISCORD_WEBHOOK = "https://discordapp.com/api/webhooks/1167795441220460574/uIb8VBmgbM41RcWNe2yFowlrkm_n5yIFavDkN9L5ka5KbWNBwey6_AxCSkSWxRXyfmGU"
+    bot_token = "cant share "
+    DISCORD_WEBHOOK = "cant share "
     bot_module = DiscordBotModule(bot_token,DISCORD_WEBHOOK)
 
     # Start the bot in a separate thread
