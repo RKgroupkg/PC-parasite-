@@ -176,7 +176,7 @@ class CustomLogger:
 # Example usage:
 if __name__ == "__main__":
     log_file_path = "Rklog.log"
-    discord_webhook_url = "https://discord.com/api/webhooks/1172792490131202048/eg7QsvbdM94xDlDALtfC8ENpO-kqPAAKxNgJy2vSc8jqYDDUAlSp91TLdCcmHOHOD6Va"
+    discord_webhook_url = "cant share"
     logger = CustomLogger(discord_webhook_url)
 
     logger.log("This is an info message.")
