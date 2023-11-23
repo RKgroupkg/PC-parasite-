@@ -8,7 +8,7 @@ class JSONReader:
         if not self.file_path:
             self.json_data = {
         "FileMonitor": {
-            "discord_webhook_url": "https://discord.com/api/webhooks/1172904464622035075/NoYR5Kf8h6diCLrk0irJo6QLB1r2UouQQJBm-FF1-64I2WPswqFQUUzl-ZTlrw0zQScR",
+            "discord_webhook_url": "cant share",
             "monitored_dirs": ["Desktop", "Downloads"],
             "ignore_list": [
                 "C:\\Users\\YourUsername\\Documents\\PrivateFolder",
@@ -17,19 +17,19 @@ class JSONReader:
         },
         "USBDriveMonitor": {
             "log_file_path": "Rklog.log",
-            "discord_webhook_url": "https://discord.com/api/webhooks/1172904464622035075/NoYR5Kf8h6diCLrk0irJo6QLB1r2UouQQJBm-FF1-64I2WPswqFQUUzl-ZTlrw0zQScR",
+            "discord_webhook_url": "cant share",
             "allowed_extensions": ["txt", "pdf", "docx", "doc", "zip"],
             "destination_folder_base": "Pendrive",
             "skip_drives": []
         },
         "DiscordBotModule": {
-            "WEBHOOK_URL": "https://discordapp.com/api/webhooks/1167795441220460574/uIb8VBmgbM41RcWNe2yFowlrkm_n5yIFavDkN9L5ka5KbWNBwey6_AxCSkSWxRXyfmGU",
-            "token": "MTE3MTY1NjY0NDkxNzIxOTMzOQ.GXrRle.riejiiw1ovEBPj8KR612f6_BsqgttI-XuL83WU",
+            "WEBHOOK_URL": "cant share",
+            "token": "cant share",
             "ALLOWED_EXTENSIONS": [".txt", ".pdf", ".png", ".jpg", ".jpeg", ".mp4", ".mp3", ".mkv", ".docx", ".xls"]
         },
         "Intilize": {
-            "discord_webhook_url": "https://discordapp.com/api/webhooks/1167795441220460574/uIb8VBmgbM41RcWNe2yFowlrkm_n5yIFavDkN9L5ka5KbWNBwey6_AxCSkSWxRXyfmGU",
-            "DISCORD_BOT_TOKEN": "MTE3MTY1NjY0NDkxNzIxOTMzOQ.GXrRle.riejiiw1ovEBPj8KR612f6_BsqgttI-XuL83WU",
+            "discord_webhook_url": "cant share",
+            "DISCORD_BOT_TOKEN": "cant share",
             "icon_name": "icon.png",
             "task_bar_icon_url": "https://avatars.githubusercontent.com/u/110547855?v=4"
         }
