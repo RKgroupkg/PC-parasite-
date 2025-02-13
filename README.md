@@ -9,4 +9,4 @@ its a program bot design for working in background and giving you all info and c
 4. It will run each time pc start up . it will make it self in startup folder .
 
 # Warning:- 
-not to be used by newbie devloper . and use it at your won risk 
+not to be used by newbie devloper . and use it at your own risk 
